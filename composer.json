@@ -1,0 +1,15 @@
+{
+    "name": "vendor/e-cerealista",
+    "description": "Description of project eCerealista.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PauloHenrique",
+            "email": "mnpaulo@gmail.com"
+        }
+    ],
+    "require": {
+        "chrome-php/chrome": "v1.10.0",
+        "nfephp-org/sped-nfe" : "^5.0"
+    }
+}

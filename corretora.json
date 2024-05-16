@@ -1,0 +1,18 @@
+[
+    {
+        "nome": "AGROMS", 
+        "comissao": 0.45
+    }, 
+    {
+        "nome": "JARDEL", 
+        "comissao": 0
+    },   
+    {
+        "nome": "ELIAS", 
+        "comissao": 0
+    },  
+    {
+        "nome": "ALDO", 
+        "comissao": 0
+    }
+]

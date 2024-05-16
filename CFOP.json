@@ -1,0 +1,56 @@
+{
+    "venda": [
+        {
+            "numero": "5102",
+            "natureza": "Venda de mercadoria adquirida ou recebida de terceiros"
+        }, 
+        {
+            "numero": "6102",
+            "natureza": "Venda de mercadoria adquirida ou recebida de terceiros"
+        }, 
+        {
+            "numero": "5119",
+            "natureza": "Venda por conta e ordem do adquirente em venda à ordem"
+        }, 
+        {
+            "numero": "6119",
+            "natureza": "Venda por conta e ordem do adquirente em venda à ordem"
+        }
+    ],
+    "compra": {
+        "numero": "1102",
+        "natureza": "Compra para comercialização"
+    },
+    "devolucao": [
+        {
+            "numero": "1202",
+            "natureza": "Devolução de venda de mercadoria adq. ou rec. de terceiros"
+        }, 
+        {
+            "numero": "2202",
+            "natureza": "Devolução de venda de mercadoria adq. ou rec. de terceiros"
+        }
+    ],
+    "remessa": [
+        {
+            "numero": "5905",
+            "natureza": "Remessa para depósito fechado ou armazém geral"
+        }, 
+        {
+            "numero": "5934",
+            "natureza": "Remessa simbólica de mercadoria depositada em armazém geral"
+        }, 
+        {
+            "numero": "5923",
+            "natureza": "Remessa de mercadoria em venda à ordem"
+        }, 
+        {
+            "numero": "6923",
+            "natureza": "Remessa de mercadoria em venda à ordem"
+        }
+    ]
+}
+
+
+
+

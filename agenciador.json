@@ -1,0 +1,34 @@
+[
+    {
+        "nome": "LAIRA", 
+        "comissao": 0
+    }, 
+    {
+        "nome": "EVERALDO", 
+        "comissao": 70
+    },    
+    {
+        "nome": "MARY", 
+        "comissao": 100
+    },
+    {
+        "nome": "RDM", 
+        "comissao": 0
+    },
+    {
+        "nome": "FROTA", 
+        "comissao": 0
+    }, 
+    {
+        "nome": "BRUNO", 
+        "comissao": 0
+    }, 
+    {
+        "nome": "ELIAS", 
+        "comissao": 0
+    },      
+    {
+        "nome": "ALDO", 
+        "comissao": 0
+    }
+]

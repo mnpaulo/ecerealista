@@ -1,0 +1,42 @@
+[
+    {
+        "cod": "TR",
+        "tipo": "TRUCK",
+        "ton": "15"
+    },
+    {
+        "cod": "LS",
+        "tipo": "LS",
+        "ton": "31"
+    },
+    {
+        "cod": "VA",
+        "tipo": "VANDERLEIA",
+        "ton": "35"
+    },
+    {
+        "cod": "BC",
+        "tipo": "BI-CAÇAMBA",
+        "ton": "36"
+    },
+    {
+        "cod": "BT",
+        "tipo": "BITREM",
+        "ton": "38"
+    },
+    {
+        "cod": "QE",
+        "tipo": "4-EIXO",
+        "ton": "40"
+    },
+    {
+        "cod": "RC",
+        "tipo": "RODO-CAÇAMBA",
+        "ton": "49"
+    },
+    {
+        "cod": "RT",
+        "tipo": "RODOTREM",
+        "ton": "50"
+    }
+]

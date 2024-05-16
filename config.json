@@ -1,0 +1,12 @@
+{
+    "cert_dig_nfe": {
+        "arquivo": "cfg/cert_nfe.pfx",
+        "senha": "serasa12",
+        "venc": "03/04/2024"
+    },
+    "cert_dig_cte": {
+        "arquivo": "cfg/cert_cte.pfx",
+        "senha": "serasa12",
+        "venc": "05/09/2023"
+    }
+}
